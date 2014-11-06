@@ -1,0 +1,45 @@
+body {
+  margin: 25px;
+}
+.input_url {
+  width: 65%;
+  margin-top: 15px;
+}
+.submit_btn {
+  margin-top: 15px;
+}
+input {
+  display: block;
+  margin-top: 10px;
+}
+#RESULTS {
+  display: flex;
+  margin-top: 10px;
+}
+#RESULTS_DIFF {
+  margin-top: 10px;
+  border: 1px solid #C0C0C0;
+  padding: 10px;
+}
+#RESULTS_1_CONTAINER, #RESULTS_2_CONTAINER {
+  width: 48%;
+  margin: 10px 0;
+  border: 1px solid #C0C0C0;
+}
+#RESULTS_1_CONTAINER {
+  margin-right: 10px;
+}
+#STATUS {
+  margin-top: 30px;
+  width: 300px;
+}
+#RESULTS_1, #RESULTS_2 {
+  margin: 10px;
+  padding: 10px;
+}
+
+.url {
+  margin: 10px;
+  border: 1px solid #C0C0C0;
+  padding: 10px;
+}
